@@ -1,6 +1,6 @@
 ''' 
-modified by t.me/UltroidxTeam
+modified by t.me/courses_hub2_bot
 
-Support t.me/ultroidofficial_chat
+Support t.me/courses_hub2_bot
 
 '''

@@ -8,5 +8,5 @@ else
 fi
 cd /TheMovieProviderBot
 pip3 install -U -r requirements.txt
-echo "Starting TheMovieProviderBot...."
+echo "Starting MOVIES_finder_2025...."
 python3 bot.py
